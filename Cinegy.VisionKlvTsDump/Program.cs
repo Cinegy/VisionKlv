@@ -133,7 +133,7 @@ namespace VisionKlvTsDump
                 {
                     tsDecoder.AddPacket(tsPacket);
                     if (tsDecoder.ProgramMapTables.Count <= 0) continue;
-                    videoAsyncDecoder.AddPacket(tsPacket, tsDecoder);
+                    //videoAsyncDecoder.AddPacket(tsPacket, tsDecoder); //this seems a bit broken!
                     klvAsyncDecoder.AddPacket(tsPacket, tsDecoder);
                 }
                 

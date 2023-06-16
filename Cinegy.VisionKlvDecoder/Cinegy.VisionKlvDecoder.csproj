@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Cinegy.KlvDecoder" Version="2.0.1-alpha" />
+    <PackageReference Include="Cinegy.KlvDecoder" Version="2.0.2-alpha" />
   </ItemGroup>
 
 </Project>

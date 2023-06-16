@@ -2,7 +2,7 @@
   "profiles": {
     "VisionKlvTsDump": {
       "commandName": "Project",
-      "commandLineArgs": "D:/samples/NABCapture264MD1006-20220427-145129.ts"
+      "commandLineArgs": "C:\\Data\\SAMP-v0001.1-16062023\\SAMP-v0001.1_Baseline_KLV.ts"
     }
   }
 }
