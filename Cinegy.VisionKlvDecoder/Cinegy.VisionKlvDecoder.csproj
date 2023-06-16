@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>	
+  <TargetFramework>net7.0</TargetFramework>
+    <Version>2.0.0</Version>
+    <Authors>Lewis Kirkaldie</Authors>
+    <Company>Cinegy GmbH</Company>
+    <Description>Cinegy Vision KLV decoder, in C# targetting NET 7.0</Description>
+    <Copyright>Cinegy GmbH</Copyright>
+    <PackageTags>Transport Stream KLV MPEGTS</PackageTags>
+    <NeutralLanguage />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cinegy.KlvDecoder" Version="2.0.1-alpha" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VisionKlvTsDump": {
+      "commandName": "Project",
+      "commandLineArgs": "D:/samples/NABCapture264MD1006-20220427-145129.ts"
+    }
+  }
+}
